@@ -1,0 +1,13 @@
+.pyc
+*.pyo
+__pycache__
+bin
+include
+lib
+sqlite3.db
+*.sqlite3
+*.db
+.env
+.idea
+.vscode
+media
